@@ -1,0 +1,5 @@
+Process: 1	CPU_Time: 1	Deadline: 1	Period: 10
+Process: 2	CPU_Time: 1	Deadline: 9	Period: 30
+Process: 3	CPU_Time: 1	Deadline: 10	Period: 30
+Process: 4	CPU_Time: 2	Deadline: 2	Period: 20
+Process: 5	CPU_Time: 1	Deadline: 6	Period: 30
